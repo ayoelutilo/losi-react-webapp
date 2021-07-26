@@ -1,2 +1,2 @@
-# losi-react-webapp
-Created with CodeSandbox
+# responsive-react-website
+A Responsive React Web APP template
